@@ -1,4 +1,4 @@
-# 📊 Advertisement Impact Analysis - Industry 4.0
+# 📊 Advertisement Impact Analysis
 
 
 ![Results & Implications](./result_implications.png)
